@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="300"/>
 </div>
 
-👋 I’m Tx711 (@Tarun Prasad)
+👋 I’m TarunxP (@Tarun Prasad)
 <br>
 👀 I’m interested in Web-Development/Python Development
 <br>
@@ -11,7 +11,7 @@
 <br>
 🥂 I’m looking to collaborate on Python and Web-Dev based projects
 <br>
-📫 How to reach me: Email: tprasad1312@gmail.com 
+📫 How to reach me: Email: tarun.lexangers@gmail.com 
 
 <p> Connect with me on! :
  <a href="https://www.linkedin.com/in/tarun-prasad-bb98b4209">
