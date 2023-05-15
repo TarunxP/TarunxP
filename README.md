@@ -1,6 +1,6 @@
  Hi there 👋
  <div align="center">
-  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="600" height="800"/>
+  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" width="800" height="600"/>
 </div>
 
 👋 I’m Tx711 (@Tarun Prasad)
