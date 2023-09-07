@@ -5,9 +5,9 @@
 
 👋 I’m Tx711 (@Tarun Prasad)
 <br>
-👀 I’m interested in Web-Development/Python Development
+👀 I’m an intermediate and ready to work  in (M.E.R.N Stack) Web-Development/ Python Development
 <br>
-🌱 I’m currently learning Scrapy(an open-source web-crawling framework written in Python)
+🌱 I’m currently learning Scrapy(an open-source web-crawling framework written in Python
 <br>
 🥂 I’m looking to collaborate on Python and Web-Dev based projects
 <br>
